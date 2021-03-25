@@ -1,0 +1,14 @@
+{
+  "resources_spec":[
+    {
+      "cluster_ip": "10.45.129.105",
+      "cluster_user": "admin",
+      "pc_ip": "10.40.216.193",
+      "pc_user": "admin",
+      "pd_cat_pairs": [
+        {"protection_domains":["test_pd2"], "category":"test1:test1"}
+      ]
+    }
+  ]
+}
+
